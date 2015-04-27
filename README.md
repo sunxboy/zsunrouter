@@ -1,3 +1,2 @@
 # zsunrouter
-This is the Modbus Communication application for openwrt.
-It can support any common devices with modbus interface.
+This is the customize router system base on openwrt.
